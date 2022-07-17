@@ -2,7 +2,7 @@
   "name": "youtube-music-plus",
   "version": "1.0.0",
   "description": "Unofficial youtube music desktop application",
-  "main": "application.js",
+  "main": "app.js",
   "scripts": {
     "serve": "electron .",
     "test": "jest"
@@ -11,5 +11,11 @@
   "license": "MIT",
   "devDependencies": {
     "electron-reloader": "^1.2.3"
+  },
+  "dependencies": {
+    "@cliqz/adblocker-electron": "^1.23.8",
+    "axios": "^0.27.2",
+    "custom-electron-titlebar": "^4.1.0",
+    "discord-rich-presence": "^0.0.8"
   }
 }
