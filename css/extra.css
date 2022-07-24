@@ -1,0 +1,61 @@
+.navbar-brand {
+    font-family: Century Gothic, CenturyGothic; 
+}
+.navbar_padding {
+    padding-left: 9%;
+    padding-right: 9%;
+}
+.header-font {
+    font-size: 3rem;
+}
+.header-font2 {
+    font-size: 1rem;
+
+}
+body {
+    font-family: inter,sans-serif;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus
+ {
+    outline: none;
+    box-shadow: none;
+}
+.navbar-toggler {
+   
+    border-color:#f8f9fa !important;
+}
+.navbar-toggler-icon {
+    color: red !important;
+}
+
+.btn-color {
+    border: 1px solid ;
+    border-color: #0f000031;
+}
+.btn-color:hover {
+    background-color: #0f000021 ;
+}
+.btn-primary {
+    background-color: #9c59b6b7 !important;
+    border-color: #0f000031 !important;
+}
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(156, 89, 182, 0.72)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+  
+  .custom-toggler.navbar-toggler {
+    border-color: #9c59b6b7;
+  } 
+
+  .img-resp {
+    width: 85%;
+ 
+
+  }
+  section {
+   padding-right: 8% !important;
+   padding-left: 8% !important;
+  }
