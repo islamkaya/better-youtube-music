@@ -14,7 +14,8 @@ Available plugins:
 Adblocker: Blocks all ads from Youtube Music
 <br>
 Discord RPC: Shows music info with Discord Rich Presence
-
+<br><br><br>
+<a href="https://www.producthunt.com/posts/better-youtube-music?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-better&#0045;youtube&#0045;music" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=353545&theme=light" alt="Better&#0032;Youtube&#0032;Music - youtube&#0044;&#0032;music&#0044;&#0032;plugins&#0044;&#0032;customizable&#0032;youtube&#0032;music&#0044;yt&#0032;music | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <br>
 </p>
